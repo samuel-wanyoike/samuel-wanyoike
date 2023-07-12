@@ -1,8 +1,7 @@
-# 👋 Hi, I’m @samuel-wanyoike
-👀 I’m a software engineer and a cloud devops engineer 
+# 👋 Hi, I’m samuel wanyoike
+- 👀 I’m a software engineer and a cloud devops engineer 
 🌱 I’m currently sharpening my skills on the above.
-💞️ My stack includes but not limited to:
-📫 How to reach me linkedin at [https://www.linkedin.com/in/samuelwanyoike]
+-📫 How to reach me linkedin at [https://www.linkedin.com/in/samuelwanyoike]
 
  
 <!---
