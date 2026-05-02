@@ -1,7 +1,6 @@
 
 # 👋 Hi, I’m Samuel Wanyoike
- - 👀 I’m an IoT and Data engineer with a strong background in Electrical and Electronic Engineering.
- - 🌱 I’m currently sharpening skills on the above.
+ - 👀 I’m an Software,IoT and Data engineer with a strong background in Electrical and Electronic Engineering.
  - 📫 Reach me on linkedin at [https://www.linkedin.com/in/samuelwanyoike]
 
  
